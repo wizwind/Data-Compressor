@@ -1,0 +1,13 @@
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\bin\Debug\finalsoftwaremini.exe.config
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\bin\Debug\finalsoftwaremini.exe
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\bin\Debug\finalsoftwaremini.pdb
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\obj\Debug\finalsoftwaremini.csprojResolveAssemblyReference.cache
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\obj\Debug\finalsoftwaremini.Form1.resources
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\obj\Debug\finalsoftwaremini.Form2.resources
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\obj\Debug\finalsoftwaremini.Properties.Resources.resources
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\obj\Debug\finalsoftwaremini.csproj.GenerateResource.Cache
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\obj\Debug\finalsoftwaremini.exe
+c:\users\user pc\documents\visual studio 2012\Projects\finalsoftwaremini\finalsoftwaremini\obj\Debug\finalsoftwaremini.pdb
+C:\Users\LENOVO\Desktop\SE PROJECT\finalsoftwaremini\bin\Debug\finalsoftwaremini.exe.config
+C:\Users\LENOVO\Desktop\SE PROJECT\finalsoftwaremini\obj\Debug\finalsoftwaremini.exe
+C:\Users\LENOVO\Desktop\SE PROJECT\finalsoftwaremini\obj\Debug\finalsoftwaremini.pdb
