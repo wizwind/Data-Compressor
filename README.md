@@ -20,10 +20,10 @@ Lossless data compressor developed on C#.
 4) Decompressor module
 
 ### User Interface Module
-Simple user interface with the file uploading button.
-a)Security Module:
-The interface will be designed to take only the authentic file formats by providing less options and flexibility for uploading files.
-b)Output module:
+Simple user interface with the file uploading button.  
+a)Security Module:  
+The interface will be designed to take only the authentic file formats by providing less options and flexibility for uploading files.  
+b)Output module:  
 The files when undergo process of conversion the data is provided about the file size and process completion.It provides information about the file in runtime.
 
 
